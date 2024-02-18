@@ -14,4 +14,4 @@ Change of criteria for health insurance in 2009 expanded cochlear implant surger
 [1]<a href="https://www.e-asr.org/m/journal/view.php?number=498">Cho, Soo Jin, Mi Sook Lee, and Yu Ri Lee. "Analysis of the Current Status and Characteristics of the Hearing Impaired Using Data from the Actual Survey for the Disabled." Audiology and Speech Research 18.1 (2022): 9-19.</a>
 
 ## 📧 Contact us
-[![allways](https://img.shields.io/badge/team%20allways-71A1FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:414catherine@gmail.com)
+[![allways](https://img.shields.io/badge/team%20allways-71A1FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team.allways.gdsc@gmail.com)
