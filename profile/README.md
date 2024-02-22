@@ -20,10 +20,12 @@ This project has two repository: [All-Ears_Android](https://github.com/TeamAllwa
   <img alt="GCP VM" src ="https://img.shields.io/badge/GCP VM-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img alt="GCP Cloud SQL" src ="https://img.shields.io/badge/GCP Cloud SQL-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
-<img width="1920" alt="Architecture of All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/48539296-03cb-4267-af0c-338a55ebe4c8">
-To achieve Voice Ratio Visualization, we utilized **TensorFlow Lite's AudioClassifier** model, an on-device AI for edge devices. We also implemented Live Captioning using **GCP's STT API**. For Past Captioning Rewatch, we created a **Spring Boot (Java 17)** backend server that uses **GCP Cloud SQL (MySQL 8.0 engine)** and hosted it on a** GCP VM instance**.
 
-These features are visualized through an app built on WearOS (Kotlin 1.7 & Java 8), making it possible for users to access them in their daily lives.
+<img width="1920" alt="Architecture of All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/48539296-03cb-4267-af0c-338a55ebe4c8">
+
+To achieve Voice Ratio Visualization, we utilized `TensorFlow Lite's AudioClassifier` model, an on-device AI for edge devices. We also implemented Live Captioning using `GCP's STT API`. For Past Captioning Rewatch, we created a `Spring Boot (Java 17)` backend server that uses `GCP Cloud SQL (MySQL 8.0 engine)` and hosted it on a `GCP VM instance`.
+
+These features are visualized through an app built on `WearOS (Kotlin 1.7 & Java 8)`, making it possible for users to access it in everyday situations at school.
 
 ## 📄 Realated study
 [1]<a href="https://www.e-asr.org/m/journal/view.php?number=498">Cho, Soo Jin, Mi Sook Lee, and Yu Ri Lee. "Analysis of the Current Status and Characteristics of the Hearing Impaired Using Data from the Actual Survey for the Disabled." Audiology and Speech Research 18.1 (2022): 9-19.</a>
