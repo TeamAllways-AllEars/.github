@@ -20,7 +20,7 @@ This project has two repository: [All-Ears_Android](https://github.com/TeamAllwa
   <img alt="GCP VM" src ="https://img.shields.io/badge/GCP VM-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img alt="GCP Cloud SQL" src ="https://img.shields.io/badge/GCP Cloud SQL-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
-<img width="1920" alt="allears-architecture" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/578dd793-f88f-436e-96dc-bb2d04a76f68">
+<img width="1920" alt="Architecture of All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/aac35b55-dd6b-43df-9f2b-f8f0efe986d7">
 
 ## 📄 Realated study
 [1]<a href="https://www.e-asr.org/m/journal/view.php?number=498">Cho, Soo Jin, Mi Sook Lee, and Yu Ri Lee. "Analysis of the Current Status and Characteristics of the Hearing Impaired Using Data from the Actual Survey for the Disabled." Audiology and Speech Research 18.1 (2022): 9-19.</a>
