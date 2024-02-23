@@ -35,7 +35,7 @@ These features are visualized through an app built on `WearOS (Kotlin 1.7 & Java
 ## 🪧 Guidance
 This project has two repository: [All-Ears_Android](https://github.com/TeamAllways-AllEars/All-Ears_Android) for `WearOS` client application and [All-Ears_Server](https://github.com/TeamAllways-AllEars/All-Ears_Server) for `SpringBoot` backend server. The guidance on how to run the code is in each repository's GitHub `README.md` file.
 
-## 📄 Realated study
+## 📄 Related study
 [1]<a href="https://www.e-asr.org/m/journal/view.php?number=498">Cho, Soo Jin, Mi Sook Lee, and Yu Ri Lee. "Analysis of the Current Status and Characteristics of the Hearing Impaired Using Data from the Actual Survey for the Disabled." Audiology and Speech Research 18.1 (2022): 9-19.</a>
 
 ## 📧 Contact us
