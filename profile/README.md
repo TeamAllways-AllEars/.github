@@ -1,4 +1,8 @@
 ## 👂All Ears, an WearOS app for kids with hearing impairment in inclusive education environment
+
+<img width="1920" alt="All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/4c44a3ac-062b-487d-b064-203dec66124d">
+
+## 🪧 Project Overview
 > When you lose your vision, you lose contact with things.\
 When you lose your hearing, you lose contact with people.\
 Helen Keler
