@@ -1,4 +1,4 @@
-## 👂All Ears, an WearOS app for kids with hearing impairment in inclusive education environment
+## 👂 All Ears: A Voice Visualizing WearOS App for Kids with Hearing Impairments in Inclusive Educational Environments
 
 <img width="1920" alt="All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/06290039-c5fd-4185-8754-c8cb1e3133a3">
 
