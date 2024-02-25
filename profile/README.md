@@ -13,9 +13,6 @@ In **South Korea**, changes to the health insurance criteria in 2009 expanded **
 
 **Team Allways** build "All Ears", an WearOS app that provides real-time Voice Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. We aim to build an additional ear through visualization of speech and help kids with disabilities build camaraderie with their friends.
 
-## 🚀 Features
-
-
 ## ⚙️ Architecture
 <div>
   <img alt="Wear OS" src ="https://img.shields.io/badge/wearos-4285F4.svg?&style=for-the-badge&logo=wearos&logoColor=white"/>
