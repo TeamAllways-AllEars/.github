@@ -13,9 +13,9 @@ In **South Korea**, changes to the health insurance criteria in 2009 expanded **
 
 This environment causes a lot of discomfort for children with hearing impairments. According to Ms. A, a person who has a hearing impairment, one of the difficulties in regular school was not being able to check her own voice's volume and content, which made her continuously ask friends to check them. Therefore, we need a service for kids with hearing impairments who need to engage in everyday communication in inclusive educational settings.
 
-**Team Allways** build "All Ears", an WearOS app that provides real-time Voice-Noise Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. We aim to build an additional ear through visualization of speech and help kids with disabilities build camaraderie with their friends.
+**Team Allways** build "All Ears", an WearOS app that provides real-time Voice-Noise Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. We aim to build an additional ear through visualization of speech and help kids with disabilities build camaraderie with their friends. With "All Ears" we can achieve 3 UN SDGs goals—the **quality of education**, **promote peace**, and **reduce inequalities**.
 
-## ⚙️ Architecture
+## ⚙️ Architecture & Tech
 <div>
   <img alt="Wear OS" src ="https://img.shields.io/badge/wearos-4285F4.svg?&style=for-the-badge&logo=wearos&logoColor=white"/>
   <img alt="Tensorflow Lite" src ="https://img.shields.io/badge/tensorflow lite-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
