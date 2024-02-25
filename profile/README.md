@@ -32,7 +32,24 @@ To achieve Voice Ratio Visualization, we utilized `TensorFlow Lite's AudioClassi
 These features are visualized through an app built on `WearOS (Kotlin 1.7 & Java 8)`, making it possible for users to access it in everyday situations at school.
 
 ## 🪧 Guidance
-This project has two repository: [All-Ears_Android](https://github.com/TeamAllways-AllEars/All-Ears_Android) for `WearOS` client application and [All-Ears_Server](https://github.com/TeamAllways-AllEars/All-Ears_Server) for `SpringBoot` backend server. The guidance on how to run the code is in each repository's GitHub `README.md` file.
+This project has two repositories: [All-Ears_Android](https://github.com/TeamAllways-AllEars/All-Ears_Android) for `WearOS` client application and [All-Ears_Server](https://github.com/TeamAllways-AllEars/All-Ears_Server) for `SpringBoot` backend server. The guidance on how to run the code is in each repository's GitHub `README.md` file. If you want to run the code, please follow the instructions of each repositories.
+
+## 📽 Demo Video Link
+[![AllEars Demo Video](https://github.com/TeamAllways-AllEars/.github/blob/e6287f8a64ee65ddc17d2511bce4015429ef808d/images/all%20ears%20youtube%20video.png)](https://www.youtube.com/watch?v=8hec7ohdeOA)
+
+## ⚙️ Release Note
+### 2023-02-26
+> v1.0.0 release
+- Added Voice-Noise Ratio Feature(Tenserflow lite)
+- Added Speech-to-Text Featrue(GCP STT API)
+- Added Past Captioning Rewatch Feature(GCP Cloud SQL & VM instance)
+
+## 👩‍💻 Contributors
+
+|                                  Android                                   |                                    Android                                    |                                   Backend                                    |                                    Design                                     |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/87654809?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/91647696?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/89632139?v=4" width=150px> | <img src="https://avatars.githubusercontent.com/u/144984293?v=4" width=150px> |
+|                     [노원희/Wonhui Roh](https://github.com/neoseurae12)                     |                     [정예지/Yeji Jeong](https://github.com/yeji0214)                      |                   [전혜승/Haeseung Jeon](https://github.com/JeonHaeseung)                   |                   [김수연/Suyeon Kim](https://github.com/mmaybei)                    |
 
 ## 📄 Related study
 [1]<a href="https://www.e-asr.org/m/journal/view.php?number=498">Cho, Soo Jin, Mi Sook Lee, and Yu Ri Lee. "Analysis of the Current Status and Characteristics of the Hearing Impaired Using Data from the Actual Survey for the Disabled." Audiology and Speech Research 18.1 (2022): 9-19.</a>
