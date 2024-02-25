@@ -1,6 +1,6 @@
 ## 👂All Ears, an WearOS app for kids with hearing impairment in inclusive education environment
 
-<img width="1920" alt="All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/ea7ca99b-dfda-46b3-ad52-48c36edb1481">
+<img width="1920" alt="All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/06290039-c5fd-4185-8754-c8cb1e3133a3">
 
 ## 🪧 Project Overview
 > When you lose your vision, you lose contact with things.\
