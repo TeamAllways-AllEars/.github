@@ -7,11 +7,11 @@
 When you lose your hearing, you lose contact with people.\
 Helen Keler
 
-<img width="1920" alt="Project Overview of All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/01be16b4-a78d-4d07-a598-dfdc02dcf9d4">
+<img width="1920" alt="Project Overview of All Ears" src="https://github.com/TeamAllways-AllEars/.github/assets/89632139/b15815ec-3759-4240-a23f-a728790ad009">
 
-In **South Korea**, changes to the health insurance criteria in 2009 expanded **cochlear implant surgery** and enabled more kids with hearing impairments to study in **inclusive education environments**.<a href="https://www.e-asr.org/m/journal/view.php?number=498">[1]</a> However, despite many receiving inclusive education, there aren't enough services for kids with hearing impairments in inclusive education classrooms in South Korea. These kids mostly communicate with kids without disabilities **through speech**. Therefore, we need a service for kids with hearing impairments who need to engage in everyday communication in inclusive educational settings.
+In **South Korea**, changes to the health insurance criteria in 2009 expanded **cochlear implant surgery** and enabled more kids with hearing impairments to study in **inclusive education environments**.<a href="https://www.e-asr.org/m/journal/view.php?number=498">[1]</a> However, despite many receiving inclusive education, there aren't enough services for kids with hearing impairments in inclusive education classrooms in South Korea. These kids mostly communicate with kids without disabilities **through speech**. This environment causes a lot of discomfort for children with hearing impairments. According to Ms. A, a person who has a hearing impairment, one of the difficulties in regular school was not being able to check her own voice's volume and content, which made her continuously ask friends to check them. Therefore, we need a service for kids with hearing impairments who need to engage in everyday communication in inclusive educational settings.
 
-**Team Allways** build "All Ears", an WearOS app that provides real-time Voice Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. We aim to build an additional ear through visualization of speech and help kids with disabilities build camaraderie with their friends.
+**Team Allways** build "All Ears", an WearOS app that provides real-time Voice-Noise Ratio Visualization, Live Captioning, and Past Captioning Rewatch for kids with hearing impairment. We aim to build an additional ear through visualization of speech and help kids with disabilities build camaraderie with their friends.
 
 ## ⚙️ Architecture
 <div>
