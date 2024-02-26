@@ -37,6 +37,9 @@ This project has two repositories: [All-Ears_Android](https://github.com/TeamAll
 ## 📽 Demo Video Link
 [![AllEars Demo Video](https://github.com/TeamAllways-AllEars/.github/blob/e6287f8a64ee65ddc17d2511bce4015429ef808d/images/all%20ears%20youtube%20video.png)](https://www.youtube.com/watch?v=8hec7ohdeOA)
 
+## ✅ How to use
+![All Ears how to use](https://github.com/TeamAllways-AllEars/.github/assets/89632139/52ecb210-3d00-4da3-9a44-b905646215aa)
+
 ## ⚙️ Release Note
 ### 2023-02-26
 > v1.0.0 release
